@@ -3,6 +3,27 @@ scroll-behavior:smooth;
 }
 
 /* BODY */
+.principal-img{
+width:200px;
+border-radius:15px;
+margin:20px auto;
+display:block;
+}
+
+footer{
+margin-top:60px;
+}
+
+body{
+min-height:100vh;
+display:flex;
+flex-direction:column;
+}
+
+section{
+flex:1;
+}
+
 body{
 margin:0;
 font-family:'Segoe UI', sans-serif;
